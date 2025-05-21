@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Dimitar!
 
-![fun gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZhOWtlZ2RjNWZ1dnN2enJkbnpieTFybG83OTh0aDU4eXgxZGk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)  
+![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)  
 
 I'm a passionate **JavaScript developer** who's been busy turning coffee into code ☕️  
 After conquering ski slopes during the winter season 🎿, I’m back at my keyboard crafting cool web apps!
@@ -23,3 +23,13 @@ Now I just try to *write* it in code.
 ---
 
 Thanks for dropping by! Let’s build something awesome 👨‍💻  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimitar86kostov&show_icons=true&gruvbox=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dimitar86kostov&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar86kostov&layout=compact&theme=tokyonight)
+
+![Code](https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript)
+
+
