@@ -24,10 +24,6 @@ Now I just try to *write* it in code.
 
 Thanks for dropping by! Let’s build something awesome 👨‍💻  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimitar86kostov&show_icons=true&gruvbox=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dimitar86kostov&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar86kostov&layout=compact&theme=tokyonight)
 
 ![Code](https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript)
