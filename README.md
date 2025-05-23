@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Dimitar!
 
-![Header](https://i.postimg.cc/BbrmDkQB/header.jpg)
+![Header](https://i.postimg.cc/5N5rL9LH/headerfinal.jpg)
 
 ![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)  
 
