@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Dimitar!
 
-![Header](https://i.postimg.cc/rpZLqwCy/A-New-Design-1-Made-with-Poster-My-Wall-2.jpg)
+![Header](https://i.postimg.cc/6p5R8BG4/A-New-Design-1-Made-with-Poster-My-Wall-3.jpg)
 
 ![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)  
 
