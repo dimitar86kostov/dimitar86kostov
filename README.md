@@ -2,10 +2,8 @@
 
 ![Header](https://i.postimg.cc/6p5R8BG4/A-New-Design-1-Made-with-Poster-My-Wall-3.jpg)
 
-![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)  
-
 I'm a passionate **JavaScript developer** who's been busy turning coffee into code ☕️  
-When I’m not shredding powder on the slopes 🎿 or chasing waves on a surfboard 🌊, you’ll find me building slick web apps with JavaScript magic ✨
+When I’m not shredding **powder on the slopes** 🎿 or chasing **waves on a surfboard** 🌊, you’ll find me building slick web apps with **JavaScript magic** ✨
 
 ## 💻 Tech Stack:
 
@@ -13,6 +11,8 @@ When I’m not shredding powder on the slopes 🎿 or chasing waves on a surfboa
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs
 - **Other:** TypeScript, Git
 - **Concepts & Architecture:** NoSQL, MVC
+  
+![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)
 
 ## 🚀 Current Project:
 [Wonder Trip Project](https://github.com/dimitar86kostov/Wonder-Trip-Project) — A cool SPA where users can share ski resorts experiences. Includes authentication, CRUD, and interactive features.
