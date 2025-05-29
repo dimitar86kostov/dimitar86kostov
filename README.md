@@ -1,19 +1,21 @@
 # 👋 Hey there, I’m Dimitar!
 
-![Header](https://i.postimg.cc/5N5rL9LH/headerfinal.jpg)
+![Header](https://i.postimg.cc/rpZLqwCy/A-New-Design-1-Made-with-Poster-My-Wall-2.jpg)
 
 ![fun gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hjNWNoOG0wcDVnazJyeG9iZHcwNG85ZnVpN2p3MWltajlmeHpiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dwmNhd5H7YAz6/giphy.gif)  
 
 I'm a passionate **JavaScript developer** who's been busy turning coffee into code ☕️  
-After conquering ski slopes during the winter season 🎿, I’m back at my keyboard crafting cool web apps!
+When I’m not shredding powder on the slopes 🎿 or chasing waves on a surfboard 🌊, you’ll find me building slick web apps with JavaScript magic ✨
 
-## 💻 Tech I Work With:
-- **Frontend:** React, JSX, HTML, CSS, Tailwind
-- **Backend:** Node.js, Express.js, MongoDB, REST API
-- **Other:** TypeScript, MVC, Git
+## 💻 Tech Stack:
+
+- **Frontend:** React, JSX, HTML, CSS, Tailwind CSS, Handlebars
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs
+- **Other:** TypeScript, Git
+- **Concepts & Architecture:** NoSQL, MVC
 
 ## 🚀 Current Project:
-[Wonder Trip Project](https://github.com/dimitar86kostov/Wonder-Trip-Project) — A full-stack SPA where users can share ski resort experiences. Includes authentication, CRUD, and interactive features.
+[Wonder Trip Project](https://github.com/dimitar86kostov/Wonder-Trip-Project) — A cool SPA where users can share ski resorts experiences. Includes authentication, CRUD, and interactive features.
 
 ## 🔧 Always Learning:
 I’m constantly sharpening my skills, revisiting concepts, and chasing the next challenge. TypeScript and testing are next on my hit list.
